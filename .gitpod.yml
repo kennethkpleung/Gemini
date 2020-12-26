@@ -1,9 +1,6 @@
 
 image: gitpod/workspace-full-vnc
 
-ports:
-  - port: 6080
-
 tasks:
   - init: npm install
     command: 'echo "TODO: Replace with command to start project"'
